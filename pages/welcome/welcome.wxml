@@ -1,0 +1,7 @@
+<view class="contain">
+    <image src='/images/4.png'></image>
+    <text class='user' >你好，九月</text>
+    <view class='moto'>
+      <text class='moto-text'bindtap='onPostPage'>开启小程序之旅</text>
+    </view>
+</view>
